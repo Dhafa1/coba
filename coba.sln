@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "form1", "coba\form1.csproj", "{DEFF9695-C2A3-48AC-89A4-C225C68E4866}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEFF9695-C2A3-48AC-89A4-C225C68E4866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEFF9695-C2A3-48AC-89A4-C225C68E4866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEFF9695-C2A3-48AC-89A4-C225C68E4866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFF9695-C2A3-48AC-89A4-C225C68E4866}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7F40682-607D-469E-BCDA-4E59772DED6D}
+	EndGlobalSection
+EndGlobal
